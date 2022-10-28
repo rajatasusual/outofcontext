@@ -1,0 +1,5 @@
+public/
+node_modules/
+ssl
+docker-compose.yml
+nginx.conf
